@@ -6,6 +6,9 @@
 **tdor** provides data on killings and suicides of transgender people,
 as memorialized in the Transgender Day of Remembrance. The dataset includes records from 1970 to 2019.
 
+
+<img src="inst/figures/tdor_hex.png" height="300"/>
+
 ## Installation
 
 You can install tdor via:

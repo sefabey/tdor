@@ -6,5 +6,4 @@ inst/doc
 tdor.Rcheck/
 tdor*.tar.gz
 tdor*.tgz
-doc
-Meta
+.DS_Store
